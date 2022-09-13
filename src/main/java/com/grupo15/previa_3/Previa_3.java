@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author tecnologia7
+ * @author Oscar A. Peña C.
  */
 public class Previa_3 {
     private static final String OUT_OF_RANGE_EXCEPTION = "EXCEPCIÓN FUERA DE RANGO";
